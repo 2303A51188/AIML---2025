@@ -11,3 +11,5 @@
 [Lab06] https://github.com/2303A51188/AIML_2025/blob/main/Lab06.ipynb
 
 [Lab07] https://github.com/2303A51188/AIML_2025/blob/main/Lab07.ipynb 
+
+[Lab08] https://github.com/2303A51188/AIML_2025/blob/main/Lab08.ipynb
