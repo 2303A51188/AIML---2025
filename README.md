@@ -17,3 +17,5 @@
 [Lab10] https://github.com/2303A51188/AIML_2025/blob/main/Lab_10.ipynb
 
 [Lab09] https://github.com/2303A51188/AIML_2025/blob/main/Lab_09.ipynb
+
+[Lab_mock_exam] 
