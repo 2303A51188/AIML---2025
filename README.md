@@ -18,4 +18,4 @@
 
 [Lab09] https://github.com/2303A51188/AIML_2025/blob/main/Lab_09.ipynb
 
-[Lab_mock_exam] 
+[Lab_mock_exam] https://github.com/2303A51188/AIML_2025/blob/main/Lab_mock_exam.ipynb
